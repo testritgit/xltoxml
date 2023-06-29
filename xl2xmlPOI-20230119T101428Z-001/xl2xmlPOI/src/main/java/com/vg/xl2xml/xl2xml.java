@@ -70,7 +70,7 @@ public class xl2xml {
     private static final String XML_ROOT = "Gate";
     //private static final String SubjectName = "Anatomy";
     private static final String SubjectName = "GateQB";
-    private static final String PIC_FILE_LOCATION = "C:\\Users\\giri\\Downloads\\PIC2\\";
+    private static final String PIC_FILE_LOCATION = "C:\\Users\\giri\\Downloads\\PIC3\\";
     private static int[][] iRC = new int[250][20];
     static String cell0S[] = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"};
     static String sheetname;
